@@ -1,0 +1,57 @@
+<!-- /*
+Name : Dhananjay Anil Kotabagi
+ID   : int 26003_023
+
+Project Tittle: Inverted_search_project
+
+Project Description: Inverted Search
+The Inverted Search project is developed using the C programming language. 
+It is used to search for a particular word in multiple text files and identify the files containing that word. 
+It also displays the number of times the word occurs in each file. 
+This project uses file handling, hash tables, and linked lists to perform efficient searching.
+
+Sample Output:
+1. Create Database
+2. Search Database
+3. Display Database
+4. Update Database
+5. Save Database
+6. Exit
+
+Enter your choice: 1
+
+Database created successfully.
+
+Enter your choice: 3
+
+Index  Word       File Count  File Name   Word Count
+----------------------------------------------------
+1      hello      2           file1.txt   2
+                               file2.txt   1
+2      world      1           file1.txt   1
+3      embedded   1           file2.txt   3
+
+Enter your choice: 2
+
+Enter the word to search: hello
+
+Word found successfully!
+
+File Name: file1.txt
+Word Count: 2
+
+File Name: file2.txt
+Word Count: 1
+
+Enter your choice: 2
+
+Enter the word to search: linux
+
+Word not found.
+
+Enter your choice: 6
+
+Exiting program
+
+/* -->
+ 
